@@ -1,0 +1,12 @@
+  Types of Puri Chaat ->
+* Dahi Puri (or Dahi Batata Puri): Originating in Mumbai, this version uses the small, hollow puri shells also used for pani puri. 
+  They are filled with ingredients like boiled potatoes, chickpeas, onions, and various chutneys, then generously topped with whisked 
+  yogurt (dahi), spices (like chaat masala), and thin crunchy noodles called sev. 
+  It offers a mix of sweet, tangy, and spicy flavors.
+
+* Masala Puri: This popular South Indian street food, especially in Bangalore, features crushed puris mixed with a spicy and savory green 
+  pea and potato gravy or curry (ragda). It is often garnished with chopped onions, tomatoes, coriander leaves, and sev before serving.
+
+* Sev Puri: While sometimes made with hollow puris, it often uses small, flat, crispy puris (papris). Loadings typically include diced 
+  potatoes, chickpeas, and tomatoes, but unlike dahi puri, it is usually served without yogurt and relies on various chutneys and a 
+  generous amount of sev for its flavor and texture. 
